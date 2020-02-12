@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://senduk-api.herokuapp.com/",
+        "secure": false
+    }
+}
